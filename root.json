@@ -1,0 +1,12 @@
+{
+  "rootpath": "https://raw.githubusercontent.com/jasthilokesh/sampletest/master/template/",
+  "CTA": [
+    "Design1"  ,"Design2"
+  ],
+  "Button": [
+    "Design1"  ,"Design2"
+  ],
+  "Testimonial": [
+    "Design1"
+  ]
+}
