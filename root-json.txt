@@ -1,5 +1,5 @@
 {
-  "rootpath": "https:\/\/raw.githubusercontent.com\/jasthilokesh\/sampletest\/master\/template\/",
+  "rootpath": "https:\/\/raw.githubusercontent.com\/ahmedkaludi\/amp-blocks-designs\/master\/template\/",
   "category": {
     "Feature": [
       "Design1",
@@ -12,17 +12,18 @@
       "Design8",
       "Design9"
     ],
-    "Project": [
-      "Design1",
+    "Other": [
       "Design4",
       "Design5",
       "Design6",
-      "Design7",
       "Design9",
       "Design10"
     ],
-    "Team": [
+    "Project": [
       "Design1",
+      "Design7"
+    ],
+    "Team": [
       "Design5",
       "Design6",
       "Design9"
